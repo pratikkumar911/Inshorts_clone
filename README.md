@@ -6,5 +6,5 @@ Preview-
 
 We can also select category wise
 
-![Uploading Capture1.PNG…]()
 
+![Capture1](https://user-images.githubusercontent.com/77845945/120932163-5e474580-c712-11eb-868c-bb3ee4741049.PNG)
