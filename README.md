@@ -1,4 +1,3 @@
-A clone of Inshorts app using React and News API
 
 Preview-
 
